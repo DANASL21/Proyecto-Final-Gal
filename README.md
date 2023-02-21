@@ -1,0 +1,1 @@
+Este programa es un cotizador para una empresa de seguros que despliega una cotizacion dependiendo de si el sujeto esta casado, la edad de su conyuge y la cantidad de hijos que tengan la pareja. O bien, rechazar la cotizacion si el sujeto es menor de edad.
